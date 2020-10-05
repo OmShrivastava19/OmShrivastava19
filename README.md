@@ -2,7 +2,7 @@
 ### Hi, This is Om Shrivastava 👋
 
 [![Website](https://img.shields.io/website?label=omshrivastava.me&style=for-the-badge&url=https%3A%2F%2Fomshrivastava.me)](https://omshrivastava.me/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/omshrivastava?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/omshrivastava/)
+[![Linkedin Follow](https://img.shields.io/linkedin/follow/omshrivastava?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/omshrivastava/)
 
 <img src="https://camo.githubusercontent.com/7cbec0b7f9ad155d851c867c202ff1454ab2649e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966"/>
 
@@ -21,7 +21,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Om Shrivastava | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Om Shrivastava | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Om Shrivastava | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Om Shrivastava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -81,13 +81,13 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity
+<!--START_SECTION:activity -->
 1. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 2. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 3. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 4. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 5. 💪 Opened PR [#11](https://github.com/codeSTACKr/codeSTACKr/pull/11) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-END_SECTION:activity-->
+<!-- END_SECTION:activity-->
 
 </details>
 
