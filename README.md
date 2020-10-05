@@ -2,7 +2,7 @@
 ### Hi, This is Om Shrivastava 👋
 
 [![Website](https://img.shields.io/website?label=omshrivastava.me&style=for-the-badge&url=https%3A%2F%2Fomshrivastava.me)](https://omshrivastava.me/)
-[![Linkedin Follow](https://img.shields.io/linkedin/follow/omshrivastava?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/omshrivastava/)
+[![Linkedin Follow](https://img.shields.io/twitter/follow/omshrivastava?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/omshrivastava/)
 
 <img src="https://camo.githubusercontent.com/7cbec0b7f9ad155d851c867c202ff1454ab2649e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966"/>
 
