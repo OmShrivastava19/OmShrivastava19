@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Shrivastava</h1>
 <h3 align="center">🌍 Building for the Future | VIT'28 | Python, SQL, Google Cloud</h3>
 
-- 🔭 I’m currently working on [Questgen.](https://github.com/OmShrivastava19/Questgen)
+- 🔭 I’m currently working on [OmniBiMol.](https://github.com/OmShrivastava19/Omnibimol)
 
 - 🌱 I’m currently learning **Python libraries, OOPs in C++, and some Data Analysis in Google Cloud.**
 
